@@ -20,6 +20,28 @@ SOME OF OUR RECENT ACHIEVEMENTS INCLUDES:<br>
 
 <h6>Some of our recent achievements includes:<br><br></h6>
 
+<h6><b><u>ZONASA 2018: PMCA Cuttack</u></b></h6>
+<ul>
+  <li>Main Design 1 event: Citation 1(Gold)</li>
+  <li>Landscaping event: Citation 1(Gold)</li>
+  <li>Interior Design: Special Mention 1(3rd position)</li>
+  <li>Flag Design: Special Mention 1(3rd position)</li>
+  <li>Reubens Trophy: Special Mention 2(4th position)</li>
+  <li>Informals: 2 Bronze</li>
+</ul>
+
+
+<h6><b><u>ZONASA 2015: NIT Rourkela</u></b></h6>
+<ul>
+  <li>Overall Championship: 5<sup>th</sup>Position</li>
+  <li>Design 3D: (Gold)</li>
+  <li>Interior Design: Special Mention</li>
+  <li>Flag Design: Silver</li>
+  <li>Informals: 1 Gold, 2 Silver</li>
+</ul>
+
+
+
 <h6><b><u>ZONASA 2014: ARATRIKA NIT PATNA</u></b></h6>
 
 <ul>

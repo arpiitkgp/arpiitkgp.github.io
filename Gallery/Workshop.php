@@ -8,6 +8,18 @@
 }</style>
   <ul class="slides">
     <li>
+      <img src="Gallery/workshop/7.jpg" class="iimm"/>
+    </li>
+    <li>
+      <img src="Gallery/workshop/5.jpg" class="iimm"/>
+    </li>
+    <li>
+      <img src="Gallery/workshop/6.jpg" class="iimm"/>
+    </li>
+    <li>
+      <img src="Gallery/workshop/4.jpg" class="iimm"/>
+    </li>
+    <li>
       <img src="Gallery/workshop/1.jpg" class="iimm"/>
     </li>
     <li>

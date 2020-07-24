@@ -8,6 +8,27 @@
 }</style>
   <ul class="slides">
     <li>
+      <img src="Gallery/field_study/12.jpg" class="iimm"/>
+    </li>
+    <li>
+      <img src="Gallery/field_study/11.jpg" class="iimm"/>
+    </li>
+    <li>
+      <img src="Gallery/field_study/10.jpg" class="iimm"/>
+    </li>
+    <li>
+      <img src="Gallery/field_study/9.jpg" class="iimm"/>
+    </li>
+    <li>
+      <img src="Gallery/field_study/8.jpg" class="iimm"/>
+    </li>
+    <li>
+      <img src="Gallery/field_study/7.jpg" class="iimm"/>
+    </li>
+    <li>
+      <img src="Gallery/field_study/6.jpg" class="iimm"/>
+    </li>
+    <li>
       <img src="Gallery/field_study/1.jpg" class="iimm"/>
     </li>
     <li>

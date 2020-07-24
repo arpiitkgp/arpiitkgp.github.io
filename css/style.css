@@ -156,12 +156,7 @@ figure img {
   height: 89px;
   width: 89px;
 }
-.container{width: 65% ;}
-#container2{width: 75%; margin-left: 12.5% ;margin-right: 10% ;}
-#hr{position: relative; top: -30px; width: 75%;margin-top:0px;
-    margin-left: 12.5% ;margin-right: 10% ;
 
-     }
 #hr2{position: relative; width: 80vw;border-top: 1.33px solid black;margin:auto;}
 #boxe{font-size: 65px;padding-bottom: 0px; margin-bottom:0px;    }
 #boxer{font-size: 14px;padding-bottom: 0px; margin-bottom:0px;    text-align:justify;position: relative;top: -20px;}

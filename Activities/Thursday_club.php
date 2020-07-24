@@ -8,6 +8,18 @@
 }</style>
   <ul class="slides">
     <li>
+      <img src="images/thursday_club/6.jpg" class="iimm"/>
+    </li>
+    <li>
+      <img src="images/thursday_club/7.jpg" class="iimm"/>
+    </li>
+    <li>
+      <img src="images/thursday_club/8.jpg" class="iimm"/>
+    </li>
+    <li>
+      <img src="images/thursday_club/9.jpg" class="iimm"/>
+    </li>
+    <li>
       <img src="images/thursday_club/1.jpg" class="iimm"/>
     </li>
     <li>
@@ -30,11 +42,4 @@
     animation: "slide"
   });
 </script>
-
-
-
-
-
-
-            </div>
 

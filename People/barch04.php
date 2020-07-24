@@ -3,61 +3,20 @@
 
         <div class="site-content">
 
-        <h4 style="float:right; border-bottom: 3px solid black;"><b>ANTARITS</b></h4><br><br><br><br>
-       <div id="content">
+        <h4 style="float:right; border-bottom: 3px solid black;"><b>SCHEDIASTIKS</b></h4><br><br><br><br>
+     <div id="content">
 
-          <ul>
-              <li class='namee'>	Abhishek Anand	</li><li class='position'>	13AR10001	</li><li class='emaill' >	abshk.mw@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Aishwarya Verma	</li><li class='position'>	13AR10003	</li><li class='emaill' >	aishwarya.verma55@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Aman Ashish	</li><li class='position'>	13AR10004	</li><li class='emaill' >	amanashish10@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Aman Bhushan	</li><li class='position'>	13AR10005	</li><li class='emaill' >	bhushan.valiant01@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Ankit Babu	</li><li class='position'>	13AR10007	</li><li class='emaill' >	ankitbabu99@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Ankur	</li><li class='position'>	13AR10008	</li><li class='emaill' >	ankur228756@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Atul Gupta	</li><li class='position'>	13AR10009	</li><li class='emaill' >	atulgulptatheincredible@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Chukka Shalem Raju	</li><li class='position'>	13AR10010	</li><li class='emaill' >	shalemraju.chukka@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Apurva Daphale	</li><li class='position'>	13AR10011	</li><li class='emaill' >	apurvad96@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Dikkala Vijaya Raghava	</li><li class='position'>	13AR10012	</li><li class='emaill' >	dikkalavijay@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Gopi Seetha Rama Nidheesh	</li><li class='position'>	13AR10015	</li><li class='emaill' >	seethugopi@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Hrishabh Amrodia	</li><li class='position'>	13AR10014	</li><li class='emaill' >	yash.hrishab@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Husna Begum M R	</li><li class='position'>	13AR10015	</li><li class='emaill' >	husnamr@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Japneet Singh Chahal	</li><li class='position'>	13AR10016	</li><li class='emaill' >	Jchahal693@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Vignesh Kumar	</li><li class='position'>	13AR10018	</li><li class='emaill' >	kvignesh.kv@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	K Vinay Kumar	</li><li class='position'>	13AR10019	</li><li class='emaill' >	kvinaykumar380@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Kaartikey Dwivedi	</li><li class='position'>	13AR10020	</li><li class='emaill' >	kar21dwi@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Premchand Karnakanti	</li><li class='position'>	13AR10021	</li><li class='emaill' >	Premchand.karnakanti@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Kunaal Punj	</li><li class='position'>	13AR10023	</li><li class='emaill' >	punjkunaal@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Keerti Manney	</li><li class='position'>	13AR10024	</li><li class='emaill' >	keertimanney@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Ravali Madambakam	</li><li class='position'>	13AR10025	</li><li class='emaill' >	monu9599@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Majji Dinesh	</li><li class='position'>	13AR10026	</li><li class='emaill' >	majjidinesh@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Makkena Venkata Sai Priyatham	</li><li class='position'>	13AR10027	</li><li class='emaill' >	priyathamiit@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Mounika Bhukya	</li><li class='position'>	13AR10028	</li><li class='emaill' >	mouni646@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Nivedhitha Mathan Kumar	</li><li class='position'>	13AR10029	</li><li class='emaill' >	nive.mathan21@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Paras Prateek	</li><li class='position'>	13AR10030	</li><li class='emaill' >	parasprateekiitkgp@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Priyanka Sahoo	</li><li class='position'>	13AR10031	</li><li class='emaill' >	sahoopriyanka1994@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Purnimah Mookambika	</li><li class='position'>	13AR10032	</li><li class='emaill' >	pinkprincesspurni@gmail.com 	</li><hr class='rule'>
-              <li class='namee'>	Rahul Rathore	</li><li class='position'>	13AR10033	</li><li class='emaill' >	rrathore756@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Reshma George	</li><li class='position'>	13AR10034	</li><li class='emaill' >	rshmg996@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Richa Patel	</li><li class='position'>	13AR10035	</li><li class='emaill' >	richapatel894@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Riddha Das	</li><li class='position'>	13AR10036	</li><li class='emaill' >	hamurabi1955@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Sagthi Prakash B	</li><li class='position'>	13AR10038	</li><li class='emaill' >	sagthiprakash16@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Saket Arun Jadhav	</li><li class='position'>	13AR10039	</li><li class='emaill' >	saketj15@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Sakshi Garg	</li><li class='position'>	13AR10040	</li><li class='emaill' >	sakshi95@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Sawan K R Gope	</li><li class='position'>	13AR10041	</li><li class='emaill' >	sawankumargope@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Shubham Shudhanshu	</li><li class='position'>	13AR10042	</li><li class='emaill' >	shubham34934@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Sonali Diwakar	</li><li class='position'>	13AR10043	</li><li class='emaill' >	sonali.diwakar@gmail.com	</li><hr class='rule'>
-              <li class='namee'>	Stetson	</li><li class='position'>	13AR10044	</li><li class='emaill' >	stetson.007wolfram@gmail.com	</li><hr class='rule'>
-
-          </ul>
+         <ul>
+             <li class="namee">Aadithyaa J S</li><li class="position">16AR10001</li><li class="emaill">jsadhi05@gmail.com </li><hr class="rule"> <li class="namee">Abhinav</li><li class="position">16AR10002</li><li class="emaill">yadav22091997@gmail.com </li><hr class="rule"> <li class="namee">Abhishek Singh</li><li class="position">16AR10003</li><li class="emaill">13abhishekshingh1997@gmail.com </li><hr class="rule"> <li class="namee">Ahana Khandelwal</li><li class="position">16AR10004</li><li class="emaill">ahana08k@gmail.com </li><hr class="rule"> <li class="namee">Amlan Kumar Sahu</li><li class="position">16AR10005</li><li class="emaill">amlankumars@gmail.com </li><hr class="rule"> <li class="namee">Ankit Meena</li><li class="position">16AR10006</li><li class="emaill">ankitmeena4711@gmail.com </li><hr class="rule"> <li class="namee">Ankur Gurjar</li><li class="position">16AR10007</li><li class="emaill">8ankur8@gmail.com </li><hr class="rule"> <li class="namee">Anuj Daga</li><li class="position">16AR10008</li><li class="emaill">anujdaga4@gmail.com </li><hr class="rule"> <li class="namee">Azee Tayeng</li><li class="position">16AR10009</li><li class="emaill">azeetayeng@gmail.com </li><hr class="rule"> <li class="namee">Banavath Thakur Sangram Singh Rathod</li><li class="position">16AR10010</li><li class="emaill">sangramsinghrathod332@gmail.com </li><hr class="rule"> <li class="namee">Chebrolu Sai Ram</li><li class="position">16AR10011</li><li class="emaill">schebrolu51@gmail.com </li><hr class="rule"> <li class="namee">Devan Bhardwaj</li><li class="position">16AR10012</li><li class="emaill">devanbhardwaj12@gmail.com </li><hr class="rule"> <li class="namee">Dinesh Kumar</li><li class="position">16AR10013</li><li class="emaill">dineshsahni6@gmail.com </li><hr class="rule"> <li class="namee">Gaurav Saini</li><li class="position">16AR10014</li><li class="emaill">gauravsaini1097@gmail.com </li><hr class="rule"> <li class="namee">Hariharan M</li><li class="position">16AR10015</li><li class="emaill">mhari4998@gmail.com </li><hr class="rule"> <li class="namee">Kartik Tyagi</li><li class="position">16AR10017</li><li class="emaill">tyagik2097@gmail.com </li><hr class="rule"> <li class="namee">Kshitiz Sharma</li><li class="position">16AR10018</li><li class="emaill">kshitiz.sharma.395@gmail.com </li><hr class="rule"> <li class="namee">Kummetha Sai Charan</li><li class="position">16AR10019</li><li class="emaill">charan1644@gmail.com </li><hr class="rule"> <li class="namee">Kushagra Ramnani</li><li class="position">16AR10020</li><li class="emaill">kushagraramnani97@gmail.com </li><hr class="rule"> <li class="namee">Liza Ghosh</li><li class="position">16AR10021</li><li class="emaill">lizaghosh021@gmail.com </li><hr class="rule"> <li class="namee">Luhana Akash Manish</li><li class="position">16AR10022</li><li class="emaill">luhanaakash187@gmail.com </li><hr class="rule"> <li class="namee">Parth Vats</li><li class="position">16AR10023</li><li class="emaill">parthvts@gmail.com </li><hr class="rule"> <li class="namee">Ponnada Sai Raja Hemanth</li><li class="position">16AR10024</li><li class="emaill"> </li><hr class="rule"> <li class="namee">Prashant Kumar</li><li class="position">16AR10025</li><li class="emaill">prashant6979.pk@gmail.com </li><hr class="rule"> <li class="namee">Puneet</li><li class="position">16AR10026</li><li class="emaill"> </li><hr class="rule"> <li class="namee">Ram Krishan Yadav</li><li class="position">16AR10027</li><li class="emaill"> </li><hr class="rule"> <li class="namee">Rishabh Ratwaya</li><li class="position">16AR10028</li><li class="emaill">ratwayar012345@gmail.com </li><hr class="rule"> <li class="namee">Roshan Raj</li><li class="position">16AR10029</li><li class="emaill">rroshanraj32@gmail.com </li><hr class="rule"> <li class="namee">Roshni Ranjita Bhowmik</li><li class="position">16AR10030</li><li class="emaill">roshniranjita24@gmail.com </li><hr class="rule"> <li class="namee">Sachin Nandkumar Uttarwar</li><li class="position">16AR10031</li><li class="emaill">sachin.uttarwar007@gmail.com </li><hr class="rule"> <li class="namee">Saptarshi Sadhu</li><li class="position">16AR10032</li><li class="emaill">saptarshisadhu21@gmail.com </li><hr class="rule"> <li class="namee">Shashank Singh</li><li class="position">16AR10033</li><li class="emaill">shashanksingh1597@gmail.com </li><hr class="rule"> <li class="namee">Shinde Chaitanya Shubhash</li><li class="position">16AR10034</li><li class="emaill">cstamtoom26@gmail.com </li><hr class="rule"> <li class="namee">Shivam Singh</li><li class="position">16AR10035</li><li class="emaill">shivam.singh2326@gmail.com </li><hr class="rule"> <li class="namee">Shubham Kumar Pandey</li><li class="position">16AR10036</li><li class="emaill">tivyam.panday@gmail.com </li><hr class="rule"> <li class="namee">Tanmay Sadhu</li><li class="position">16AR10037</li><li class="emaill">sadhu.tanmay@gmail.com </li><hr class="rule"> <li class="namee">Varun Garg</li><li class="position">16AR10038</li><li class="emaill">varungarg7119@gmail.com </li><hr class="rule"> <li class="namee">Vedant Walke</li><li class="position">16AR10039</li><li class="emaill">vedantwalke@gmail.com </li><hr class="rule"> <li class="namee">Vunnamu Ashish</li><li class="position">16AR10040</li><li class="emaill">naniashs@gmail.com </li><hr class="rule"> <li class="namee">Ashutosh Agrawal</li><li class="position">16AR10041</li><li class="emaill">ashutoshagarwal1771@gmail.com </li><hr class="rule"> <li class="namee">Khakchang Debbarma</li><li class="position">16AR10042</li><li class="emaill">khakchangd1991@gmail.com </li><hr class="rule"> <li class="namee">Anubhav Negi</li><li class="position">16AR10043</li><li class="emaill">anubhavnegi54@gmail.com </li><hr class="rule">
+         </ul>
 
         <style type="text/css">
-        .namee{font-weight: bold;}
 #proff{font-size: 18px;}
+.namee{font-weight: bold;}
 .position{font-size: 13px;}
 .emaill{font-size: 13px;line-height: 11px;}
 </style>
         </div>
 
             </div>
-
-
 

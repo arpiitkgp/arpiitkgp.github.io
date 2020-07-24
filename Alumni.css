@@ -1,0 +1,29 @@
+/* Start Form */
+.contact-us {
+
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  min-height: 918px;
+}
+
+
+.contact-us .fields {
+  background:rgba(9,9,9,0.5);
+  min-height: 918px;
+  max-width: 450px;
+  color:#DDD;
+  margin: 0 auto
+
+}
+
+.contact-us .fields  a {
+    margin: 0 195px;
+    font-weight: bold;
+}
+.contact-us .fields a:hover {
+  text-decoration:none;
+ color: #FFF;
+font-weight: bold;
+}

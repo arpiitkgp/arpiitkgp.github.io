@@ -98,6 +98,7 @@
                         <li><a class="hea" href="Gallery.html">GALLERY</a></li>
                         <li><a class="hea" href="Research.html">RESEARCH</a></li>
                         <li><a class="hea" href="Magazine.html">MAGAZINE</a></li>
+                        <li><a class="hea" href="https://docs.google.com/forms/d/e/1FAIpQLSeLqMtCBp1TjOvexSEAoFPoPawblv-WdEbD1ZbV5rJXiuL_Ag/viewform">ALUMNI PORTAL</a></li>
                     </ul>
                     <ul id="navbar2" id="nav-mobile" class="right hide-on-med-and-down">
                         <li id="hov"><a class="hea" href="About_us.html">ABOUT US</a></li>
@@ -107,6 +108,7 @@
                         <li id="hov"><a class="hea" href="Gallery.html">GALLERY</a></li>
                         <li id="hov"><a class="hea" href="Research.html">RESEARCH</a></li>
                         <li id="hov"><a class="hea" href="Magazine.html">MAGAZINE</a></li>
+                        <li><a class="hea" href="https://docs.google.com/forms/d/e/1FAIpQLSeLqMtCBp1TjOvexSEAoFPoPawblv-WdEbD1ZbV5rJXiuL_Ag/viewform">ALUMNI PORTAL</a></li>
                     </ul>
 
                 </div>
@@ -129,7 +131,6 @@
 
         </div>
     </div>
-    <hr id="hr">
     <div class="container">
         <div class="row">
             <div class="col m12 l12 s12" id="boxer">The Department of Architecture and Regional Department faculty represents a broad range of academic background as well as practice and research interests. Each member belongs to a discipline group according his or her expertise. Our Architecture family comprises of Faculty members, Undergaduate (UG) Student, Master of City Planning (MCP) Students, PHD Students, Staff members and other workers.</div>
@@ -164,6 +165,9 @@
                                                 </li>
                                                 <li>
                                                     <div class="collapsible-header ttt" id="5th"><a href="#!" id="ug" class="collection-item" id="acad1">5<sup>th</sup> Yr</a></div>
+                                                </li>
+                                                <li>
+                                                    <div class="collapsible-header ttt" id="6th"><a href="#!" id="ug" class="collection-item" id="acad1">Batch of 2019</a></div>
                                                 </li>
                                             </ul>
                                         </div>
@@ -229,6 +233,10 @@
                                         "border-bottom": "",
                                         "font-weight": ""
                                     });
+                                    $("#6th").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
                                     $("#1mst").css({
                                         "border-bottom": "",
                                         "font-weight": ""
@@ -264,6 +272,10 @@
                                         "font-weight": ""
                                     });
                                     $("#5th").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#6th").css({
                                         "border-bottom": "",
                                         "font-weight": ""
                                     });
@@ -305,6 +317,10 @@
                                         "border-bottom": "",
                                         "font-weight": ""
                                     });
+                                    $("#6th").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
                                     $("#1mst").css({
                                         "border-bottom": "",
                                         "font-weight": ""
@@ -340,6 +356,10 @@
                                         "font-weight": ""
                                     });
                                     $("#1st").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#6th").css({
                                         "border-bottom": "",
                                         "font-weight": ""
                                     });
@@ -380,6 +400,10 @@
                                         "border-bottom": "",
                                         "font-weight": ""
                                     });
+                                    $("#6th").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
                                     $("#1mst").css({
                                         "border-bottom": "",
                                         "font-weight": ""
@@ -395,6 +419,52 @@
 
 
                                 });
+
+                                $("#6th").click(function() {
+
+                                    $("#main").load("People/batch_of_19.php");
+                                    $("#6th").css({
+                                        "font-weight": "bold",
+                                        "color": "#2C3E50"
+                                    });
+                                    $("#2nd").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#3rd").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#4th").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#1st").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#5th").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+
+                                    $("#1mst").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#2mnd").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#phd").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+
+
+                                });
+
+
                                 $("#1mst").click(function() {
 
                                     $("#main").load("People/mcp01.php");
@@ -607,7 +677,7 @@
 
             <div class="footer-copyright">
                 <div class="container center" style="color:#D5DBDB; margin-top:5px; margin-bottom:10px;">
-                     (c) 2017 Students' Society of Architects and Planners
+                     (c) 2019 Students' Society of Architects and Planners
 
                 </div>
             </div>

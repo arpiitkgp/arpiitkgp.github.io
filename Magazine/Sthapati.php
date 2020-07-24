@@ -62,8 +62,8 @@
 <h5><b>Visit:</b></h5>
 <h5>
 <ul class="details-list">
-
-  <li><a href="https://issuu.com/ssapiitkgp/docs/sthapati_2016/1" >Sthapati 2016</a></li>
+  <li><a href="https://issuu.com/ssapiitkgp/docs/sthapati2k17_final_draft_">Sthapati 2017</a></li>
+  <li><a href="https://issuu.com/ssapiitkgp/docs/sthapati_2016">Sthapati 2016</a></li>
   <li><a href="https://issuu.com/ssapiitkgp/docs/sthapati_2015/1" >Sthapati 2015</a></li>
   <li><a href=" " target="_blank">Sthapati 2014</a></li>
   <li><a href=" " target="_blank">Sthapati 2013</a></li>
