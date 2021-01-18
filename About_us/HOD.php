@@ -1,8 +1,10 @@
 <h5><b>From HOD's Desk</b></h6>
   <hr><br>
-  <img style="height:150px; width:140px;float:left; padding-right:12px; margin-right:6px; border-right: 3px solid #566573;" src="images/HOD.jpg">
+  <img style="height:150px; width:140px;float:left; padding-right:12px; margin-right:6px; border-right: 3px solid #566573;" src="images/george.jpeg">
   <div class="HOD">
-  <font size="2">Head of the Department:<br><b>Prof. Abraham George</b><br><b>Office</b> : +91-3222-282245<br><b>Email </b>: joysen @ arp.iitkgp.ernet.in</font><br><br><br>
+
+
+  <font size="2">Head of the Department:<br><b>Prof. Abraham George</b><br><b>Office</b> : 91-3222-283236<br><b>Email </b>: abraham@arp.iitkgp.ac.in</font><br><br><br>
 </div>
 
 
