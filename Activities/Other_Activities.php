@@ -8,25 +8,31 @@
 }</style>
   <ul class="slides">
     <li>
-      <img src="images/other_act/5.jpg" class="iimm"/>
+      <img src="images/other_act/11.jpg" class="iimm"/>
     </li>
     <li>
-      <img src="images/other_act/6.jpg" class="iimm"/>
+      <img src="images/other_act/10.jpg" class="iimm"/>
     </li>
     <li>
-      <img src="images/other_act/7.jpg" class="iimm"/>
+      <img src="images/other_act/5.JPG" class="iimm"/>
     </li>
     <li>
-      <img src="images/other_act/4.jpg" class="iimm"/>
+      <img src="images/other_act/6.JPG" class="iimm"/>
     </li>
     <li>
-      <img src="images/other_act/3.jpg" class="iimm"/>
+      <img src="images/other_act/8.jpg" class="iimm"/>
     </li>
     <li>
-      <img src="images/other_act/2.jpg" class="iimm"/>
+      <img src="images/other_act/4.JPG" class="iimm"/>
     </li>
     <li>
-      <img src="images/other_act/1.jpg" class="iimm"/>
+      <img src="images/other_act/3.JPG" class="iimm"/>
+    </li>
+    <li>
+      <img src="images/other_act/2.JPG" class="iimm"/>
+    </li>
+    <li>
+      <img src="images/other_act/1.JPG" class="iimm"/>
     </li>
 
 
@@ -44,4 +50,3 @@
 
 
             </div>
-
