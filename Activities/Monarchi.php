@@ -9,7 +9,8 @@
 
 
   <div class="row">
-    <div class="col s12 m4 l4"><a class="modal-trigger" href="#modal1"><img class="fancybox" src="images/Monarchi/25_july.jpg" style="height:200px" ></a>
+
+    <div class="col s12 m4 l4"><a class="modal-trigger" href="#modal1"><img class="fancybox" src="images/Monarchi/2019.jpg" style="height:200px" ></a>
 </div>
     <div class="col s12 m4 l4"><a class="modal-trigger" href="#modal2"><img class="fancybox" src="images/Monarchi/29_feb.jpg" style="height:200px" ></a>
 </div>
@@ -43,9 +44,7 @@
 
 </div>
 
-    <div class="col s12 m4 l4"><a class="modal-trigger" href="#modal14"><img class="fancybox" src="images/Monarchi/mon1.jpg" style="height:200px" > </a>
-
-</div>
+    
 
   </div>
 
@@ -74,7 +73,7 @@
 
     <div id="modal1" class="modal" style="height:560px; width:380px;margin:auto;">
         <div class="modal-content" style="padding:0px;">
-            <img style="height:550px; width:380px;margin:auto;" src="images/Monarchi/25_july.jpg">
+            <img style="height:550px; width:380px;margin:auto;" src="images/Monarchi/2019.jpg">
 
         </div>
     </div>
@@ -85,7 +84,7 @@
 
     <div id="modal2" class="modal" style="height:560px; width:380px;margin:auto;">
         <div class="modal-content" style="padding:0px;">
-            <img style="height:550px; width:380px;margin:auto;" src="images/Monarchi/25_july.jpg">
+            <img style="height:550px; width:380px;margin:auto;" src="images/Monarchi/29_feb.jpg">
 
         </div>
     </div>
