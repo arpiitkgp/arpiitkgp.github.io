@@ -50,6 +50,7 @@
 <font size="4"><b>Winners</b></font>
 
 <ul>
+              <li>2020 : <b>Mr T L Haveen Hrithic</b> </li>
               <li>2019 : <b>Ms Mansi Shivhare</b></li>
               <li>2015 : <b>Ms Sonali Diwakar</b> </li>
               <li>2014 : <b>Ms Keerti Manney</b> </li>
@@ -60,7 +61,6 @@
               <li>2009 : <b>Mr Avakash Kumar</b> </li>
               <li>2008 : <b>Mr Gourav Uniyal</b> </li>
               <li>2007 : <b>Mr Harsh Gupta</b> </li>
-              <li>2006 : <b>Mr Abhishek Sharma</b> </li>
 
 
             </ul>
