@@ -8,25 +8,26 @@
 }</style>
   <ul class="slides">
     <li>
-      <img src="Gallery/workshop/PS.jpg" class="iimm"/>
+
+      <img src="Gallery/workshop/10.jpg" class="iimm"/>
     </li>
     <li>
-      <img src="Gallery/workshop/revit.jpg" class="iimm"/>
+      <img src="Gallery/workshop/11.jpg" class="iimm"/>
     </li>
     <li>
-      <img src="Gallery/workshop/rhino.jpg" class="iimm"/>
+      <img src="Gallery/workshop/12.jpg" class="iimm"/>
     </li>
     <li>
-      <img src="Gallery/workshop/revit2019.jpg" class="iimm"/>
+      <img src="Gallery/workshop/13.jpg" class="iimm"/>
     </li>
     <li>
-      <img src="Gallery/workshop/1.jpg" class="iimm"/>
+      <img src="Gallery/workshop/8.jpg" class="iimm"/>
     </li>
     <li>
-      <img src="Gallery/workshop/2.jpg" class="iimm" />
+      <img src="Gallery/workshop/9.jpg" class="iimm" />
     </li>
     <li>
-      <img src="Gallery/workshop/3.jpg" class="iimm"/>
+      <img src="Gallery/workshop/14.jpg" class="iimm"/>
     </li>
     <li>
       <img src="Gallery/workshop/4.jpg" class="iimm"/>
@@ -45,5 +46,3 @@
 
 
             </div>
-
-

@@ -8,16 +8,29 @@
 }</style>
   <ul class="slides">
     <li>
-      <img src="images/thursday_club/PS.jpg" class="iimm"/>
+
+      <img src="images/thursday_club/11.jpg" class="iimm"/>
     </li>
     <li>
-      <img src="images/thursday_club/revit.jpg" class="iimm"/>
+      <img src="images/thursday_club/12.jpg" class="iimm"/>
     </li>
     <li>
-      <img src="images/thursday_club/rhino.jpg" class="iimm"/>
+      <img src="images/thursday_club/13.jpg" class="iimm"/>
     </li>
     <li>
-      <img src="images/thursday_club/revit2019.jpg" class="iimm"/>
+      <img src="images/thursday_club/14.jpg" class="iimm"/>
+    </li>
+    <li>
+      <img src="images/thursday_club/6.JPG" class="iimm"/>
+    </li>
+    <li>
+      <img src="images/thursday_club/7.JPG" class="iimm"/>
+    </li>
+    <li>
+      <img src="images/thursday_club/8.JPG" class="iimm"/>
+    </li>
+    <li>
+      <img src="images/thursday_club/9.JPG" class="iimm"/>
     </li>
     <li>
       <img src="images/thursday_club/6.jpg" class="iimm"/>
@@ -45,4 +58,3 @@
     animation: "slide"
   });
 </script>
-

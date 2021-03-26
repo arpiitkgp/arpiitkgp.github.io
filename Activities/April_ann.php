@@ -62,7 +62,6 @@
               <li>2009 : <b>Mr Avakash Kumar</b> </li>
               <li>2008 : <b>Mr Gourav Uniyal</b> </li>
               <li>2007 : <b>Mr Harsh Gupta</b> </li>
-              <li>2006 : <b>Mr Abhishek Sharma</b> </li>
 
 
             </ul>
