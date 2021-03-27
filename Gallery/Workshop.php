@@ -8,6 +8,7 @@
 }</style>
   <ul class="slides">
     <li>
+
       <img src="Gallery/workshop/10.jpg" class="iimm"/>
     </li>
     <li>
@@ -27,6 +28,9 @@
     </li>
     <li>
       <img src="Gallery/workshop/14.jpg" class="iimm"/>
+    </li>
+    <li>
+      <img src="Gallery/workshop/4.jpg" class="iimm"/>
     </li>
   </ul>
 </div>
