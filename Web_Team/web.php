@@ -62,6 +62,7 @@
                         <li><a class="hea" href="Research.html">RESEARCH</a></li>
                         <li><a class="hea" href="Magazine.html">MAGAZINE</a></li>
                         <li><a class="hea" href="Alumni.html">ALUMNI PORTAL</a></li>
+                        <li><a class="hea" href="https://139vaibhav.github.io/emerald/">BLOG</a></li>
                     </ul>
                     <ul id="navbar2" id="nav-mobile" class="right hide-on-med-and-down">
                         <li id="hov"><a class="hea" href="About_us.html">ABOUT US</a></li>
@@ -72,6 +73,7 @@
                         <li id="hov"><a class="hea" href="Research.html">RESEARCH</a></li>
                         <li id="hov"><a class="hea" href="Magazine.html">MAGAZINE</a></li>
                         <li id="hov"><a class="hea" href="Alumni.html">ALUMNI PORTAL</a></li>
+                        <li id="hov"><a class="hea" href="https://139vaibhav.github.io/emerald/">BLOG</a></li>
                     </ul>
 
                 </div>
