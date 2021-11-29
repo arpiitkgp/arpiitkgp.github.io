@@ -108,7 +108,7 @@
                         <li><a class="hea" href="Gallery.html">GALLERY</a></li>
                         <li><a class="hea" href="Research.html">RESEARCH</a></li>
                         <li><a class="hea" href="Magazine.html">MAGAZINE</a></li>
-                        <li><a class="hea" href="https://docs.google.com/forms/d/e/1FAIpQLSeLqMtCBp1TjOvexSEAoFPoPawblv-WdEbD1ZbV5rJXiuL_Ag/viewform">ALUMNI PORTAL</a></li>
+                        <li><a class="hea" href="AlumniPage.html">ALUMNI PORTAL</a></li>
                     </ul>
                     <ul id="navbar2" id="nav-mobile" class="right hide-on-med-and-down">
                         <li id="hov"><a class="hea" href="About_us.html">ABOUT US</a></li>
@@ -118,7 +118,7 @@
                         <li id="hov"><a class="hea" href="Gallery.html">GALLERY</a></li>
                         <li id="hov"><a class="hea" href="Research.html">RESEARCH</a></li>
                         <li id="hov"><a class="hea" href="Magazine.html">MAGAZINE</a></li>
-                        <li><a class="hea" href="https://docs.google.com/forms/d/e/1FAIpQLSeLqMtCBp1TjOvexSEAoFPoPawblv-WdEbD1ZbV5rJXiuL_Ag/viewform">ALUMNI PORTAL</a></li>
+                        <li id="hov"><a class="hea" href="AlumniPage.html">ALUMNI PORTAL</a></li>
                     </ul>
 
                 </div>
@@ -175,6 +175,9 @@
                                                 </li>
                                                 <li>
                                                     <div class="collapsible-header ttt" id="5th"><a href="#!" id="ug" class="collection-item" id="acad1">5<sup>th</sup> Yr</a></div>
+                                                </li>
+                                                <li>
+                                                    <div class="collapsible-header ttt" id="8th"><a href="#!" id="ug" class="collection-item" id="acad1">Batch of 2021</a></div>
                                                 </li>
                                                 <li>
                                                     <div class="collapsible-header ttt" id="6th"><a href="#!" id="ug" class="collection-item" id="acad1">Batch of 2020</a></div>
@@ -476,6 +479,58 @@
 
                                 });
 
+                                $("#8th").click(function() {
+
+                                    $("#main").load("People/batch_of_21.php");
+                                    $("#6th").css({
+                                        "font-weight": "bold",
+                                        "color": "#2C3E50"
+                                    });
+                                    $("#2nd").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#3rd").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#4th").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#1st").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#5th").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#7th").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+
+                                    $("#1mst").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#2mnd").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#phd").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+                                    $("#3mnd").css({
+                                        "border-bottom": "",
+                                        "font-weight": ""
+                                    });
+
+
+                                    });
+                                
                                 $("#6th").click(function() {
 
                                     $("#main").load("People/batch_of_20.php");
