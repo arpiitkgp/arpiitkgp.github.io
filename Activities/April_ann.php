@@ -44,13 +44,17 @@
           future execute when they are in the field. This is to
 
           recognize them and help them go ahead with such work.</li>
-          <li>Checkout the submissions of year 2020 <a href="https://aprilanntrophy.netlify.app/" target="blank">Click here</a></li>
+          <br>
+          <li><b>Checkout the submissions of year 2020 <a href="https://aprilanntrophy.netlify.app/" target="blank">Click here</a></b></li>
+          <br>
+          <li><b>Checkout the submissions of year 2021 <a href="https://aprilann2021.netlify.app/" target="blank">Click here</a></b></li>
 
 </ul>
 
 <font size="4"><b>Winners</b></font>
 
 <ul>
+              <li>2021 : <b>Mr Avi Agarwal</b></li>
               <li>2020 : <b>Mr T L Haveen Hrithic</b></li>
               <li>2019 : <b>Ms Mansi Shivhare</b></li>
               <li>2015 : <b>Ms Sonali Diwakar</b> </li>
