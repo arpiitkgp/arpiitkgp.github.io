@@ -16,14 +16,14 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150093374-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-150093374-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-  gtag('config', 'UA-176085570-1');
-</script>
+        gtag('config', 'UA-176085570-1');
+    </script>
 
     <style type="text/css">
         .fixed-nav {
@@ -49,81 +49,87 @@
         #scroll1::-webkit-scrollbar {
             width: 3px;
         }
-        .newSlideshow{
-      position: relative;
-      margin: auto; 
-      width: 800px;
-      height: 400px;
-      background: #111;
-    }
 
-    .clip{
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 800px;
-      height:400px;
-      transition: 0.5s;
+        .newSlideshow {
+            position: relative;
+            margin: auto;
+            width: 800px;
+            height: 400px;
+            background: #111;
+        }
 
-    }
+        .clip {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 800px;
+            height: 400px;
+            transition: 0.5s;
 
-    .clip1{
-      background: url(Alumni/ar3.jpg);
-      background-size: cover;
-      clip-path: polygon(0 0, 40% 0, 18% 100%, 0% 100%);
+        }
 
-    }
-    .clip2{
-      background: url(Alumni/seminar3.jpg);
-      background-size: cover;
-      clip-path: polygon(33% 0, 49% 0, 54% 100%, 18% 100%);
-    }
-    .clip3{
-      background: url(Alumni/seminar2.jpg);
-      background-size: cover;
-      clip-path: polygon(49% 0, 86% 0, 73% 100%, 52% 100%);
-    }
-    .clip4{
-      background: url(Alumni/house2.jpg);
-      background-size: cover;
-      clip-path: polygon(81% 0, 100% 0, 100% 100%, 66% 100%);
-    }
+        .clip1 {
+            background: url(Alumni/ar3.jpg);
+            background-size: cover;
+            clip-path: polygon(0 0, 40% 0, 18% 100%, 0% 100%);
 
-    
-    .newSlideshow:hover .clip {
-      clip-path: polygon(100% 0, 100% 0, 100% 100%, 100% 100%);
-    }
+        }
 
-    .newSlideshow .clip:hover{
-      clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        .clip2 {
+            background: url(Alumni/seminar3.jpg);
+            background-size: cover;
+            clip-path: polygon(33% 0, 49% 0, 54% 100%, 18% 100%);
+        }
 
-    }
+        .clip3 {
+            background: url(Alumni/seminar2.jpg);
+            background-size: cover;
+            clip-path: polygon(49% 0, 86% 0, 73% 100%, 52% 100%);
+        }
 
-    .newSlideshow .clip .content{
-      position: absolute;
-      bottom: -100%;
-      left: 0;
-      width: 70%;
-      padding: 15px;
-      background: #fff;
-      opacity: 0;
-      transition: 0.5s;
-    }
-    .newSlideshow .clip:hover .content{
-      bottom: 0;
-      opacity: 1;
-    }
-    .AchievementsImg{
-        width: 20%;
-        margin-right: 1%;
-    }
-    .AchievementsElement{
-        display: flex;
-        margin: 2%;
-    }
-    .formspree{
+        .clip4 {
+            background: url(Alumni/house2.jpg);
+            background-size: cover;
+            clip-path: polygon(81% 0, 100% 0, 100% 100%, 66% 100%);
+        }
 
-    }
+
+        .newSlideshow:hover .clip {
+            clip-path: polygon(100% 0, 100% 0, 100% 100%, 100% 100%);
+        }
+
+        .newSlideshow .clip:hover {
+            clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+
+        }
+
+        .newSlideshow .clip .content {
+            position: absolute;
+            bottom: -100%;
+            left: 0;
+            width: 70%;
+            padding: 15px;
+            background: #fff;
+            opacity: 0;
+            transition: 0.5s;
+        }
+
+        .newSlideshow .clip:hover .content {
+            bottom: 0;
+            opacity: 1;
+        }
+
+        .AchievementsImg {
+            width: 20%;
+            margin-right: 1%;
+        }
+
+        .AchievementsElement {
+            display: flex;
+            margin: 2%;
+        }
+
+        .formspree {}
     </style>
 
 
@@ -135,10 +141,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col s11 offset-s1">
-                        <a href="About_us.html" class="brand-logo offset-s1 "><img id="arppic" src="images/ARP_logo.png"></a>
+                        <a href="About_us.html" class="brand-logo offset-s1 "><img id="arppic"
+                                src="images/ARP_logo.png"></a>
                     </div>
                     <div class="col s1 l1">
-                        <a href="#" data-activates="slide-out" class="button-collapse"><img id="menu_icon" src="images/menu.png"></a>
+                        <a href="#" data-activates="slide-out" class="button-collapse"><img id="menu_icon"
+                                src="images/menu.png"></a>
                         </a>
                     </div>
 
@@ -161,7 +169,7 @@
                         <li id="hov"><a class="hea" href="Research.html">RESEARCH</a></li>
                         <li id="hov"><a class="hea" href="Magazine.html">MAGAZINE</a></li>
                         <li id="hov"><a class="hea" href="AlumniPage.html">ALUMNI PORTAL</a></li>
-                        
+
                     </ul>
 
                 </div>
@@ -172,37 +180,41 @@
     <div class="row"></div>
     <br>
     <div class="newSlideshow">
-       <div class="clip clip1">
-         <div class="content">
-          <h5>IIT Kharagpur</h5>
-           <p>Home Away from home</p>
-         </div>
-       </div>
-       <div class="clip clip2"></div>
-       <div class="clip clip3">
-         <div class="content">
-           <p>Prof. Joy Sen attending a seminar alongside students</p>
-         </div>
-       </div>
-       <div class="clip clip4">
-         <div class="content">
-           <p>Mr Thomas Abraham, our alumni who instituted the April Ann Award inaugurated his house in 2020.</p>
-         </div>
-       </div>
+        <div class="clip clip1">
+            <div class="content">
+                <h5>IIT Kharagpur</h5>
+                <p>Home Away from home</p>
+            </div>
+        </div>
+        <div class="clip clip2"></div>
+        <div class="clip clip3">
+            <div class="content">
+                <p>Prof. Joy Sen attending a seminar alongside students</p>
+            </div>
+        </div>
+        <div class="clip clip4">
+            <div class="content">
+                <p>Mr Thomas Abraham, our alumni who instituted the April Ann Award inaugurated his house in 2020.</p>
+            </div>
+        </div>
 
-     </div> 
+    </div>
 
 
     <div class="container" id="border">
         <div class="row">
             <div class="col m12 l12 s12" id="boxe"> Alumni Centre</div>
-            
+
         </div>
     </div>
 
     <div class="container">
         <div class="row">
-            <div class="col m12 l12 s12" id="boxer">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</div>
+            <div class="col m12 l12 s12" id="boxer">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+                cupidatat, sunt in culpa qui officia deserunt mollit anim id est laborum."</div>
         </div>
     </div>
     <hr id="hr2"><br>
@@ -213,11 +225,12 @@
                 <div class="collection">
                     <div class="row">
 
-                        <a href="#!" class="collection-item" id="acad1">Achievements</a></div>
+                        <a href="#!" class="collection-item" id="acad1">Achievements</a>
+                    </div>
                     <div class="row"> <a href="#!" id="acad2" class="collection-item">Placements</a></div>
                     <div class="row"><a href="#!" id="acad3" class="collection-item">Internships</a></div>
                     <div class="row"><a href="#!" id="acad4" class="collection-item">Contact Us</a></div>
-                   
+
                 </div>
             </div>
             <div id="main" class="col m12 l9 s12">
@@ -225,40 +238,46 @@
                 <hr>
 
                 <p style="text-align:justify;">
-                    <ul>
-                            <li>
-                                <h5>Research Recognition Award</h5>
-                                <div class="AchievementsElement">
-                                <img class="AchievementsImg" src="Alumni/ach1.png">
-                                <p>Dr Haresh Lalvani an alumnus of our department is the recipient of the <b>Research Recognition Award</b> for the academic year 2019-20. This award is conferred by the <b>Pratt Institute</b> to its most impactful and passionate teaching faculty.</p>
-                                </div>
-                            </li>
-                            <hr>
-                            <li>
-                                <h5>Top Architects in South Region</h5>
-                                <div class="AchievementsElement">
-                                <img class="AchievementsImg" src="Alumni/ach2.png">
-                                <p>DesignHaaus- Interprid Designer , an architecture firm co founded by Mr Rajeev Sharma and Mr Gaurav Das both alumni of our department were awarded-<b>Top Architects in South Region</b>, by <b>CWAB 2019</p>
-                                </div>
-                            </li>
-                            <hr>
-                            <li>
-                                <h5>Indian Entrepreneurs for the year 2020</h5>
-                                <div class="AchievementsElement">
-                                <img class="AchievementsImg" src="Alumni/ach3.png">
-                                <p>KOTAK MAHINDRA has identified 12 TOP young next-gen Indian Entrepreneurs for the year 2020 and an Alumnus  of our department Pooja Rai, Co-founder, Anthill Creations has been selected.</p>
-                                </div>
-                            </li>
-                           
-                    </ul>
-            
-                    
+                <ul>
+                    <li>
+                        <h5>Research Recognition Award</h5>
+                        <div class="AchievementsElement">
+                            <img class="AchievementsImg" src="Alumni/ach1.png">
+                            <p>Dr Haresh Lalvani an alumnus of our department is the recipient of the <b>Research
+                                    Recognition Award</b> for the academic year 2019-20. This award is conferred by the
+                                <b>Pratt Institute</b> to its most impactful and passionate teaching faculty.</p>
+                        </div>
+                    </li>
+                    <hr>
+                    <li>
+                        <h5>Top Architects in South Region</h5>
+                        <div class="AchievementsElement">
+                            <img class="AchievementsImg" src="Alumni/ach2.png">
+                            <p>DesignHaaus- Interprid Designer , an architecture firm co founded by Mr Rajeev Sharma and
+                                Mr Gaurav Das both alumni of our department were awarded-<b>Top Architects in South
+                                    Region</b>, by <b>CWAB 2019</p>
+                        </div>
+                    </li>
+                    <hr>
+                    <li>
+                        <h5>Indian Entrepreneurs for the year 2020</h5>
+                        <div class="AchievementsElement">
+                            <img class="AchievementsImg" src="Alumni/ach3.png">
+                            <p>KOTAK MAHINDRA has identified 12 TOP young next-gen Indian Entrepreneurs for the year
+                                2020 and an Alumnus of our department Pooja Rai, Co-founder, Anthill Creations has been
+                                selected.</p>
+                        </div>
+                    </li>
+
+                </ul>
+
+
                 <br>
 
                 <br><br>
 
                 <script type="text/javascript">
-                    $(document).ready(function() {
+                    $(document).ready(function () {
                         $('.collapsible').collapsible({
                             accordion: true // A setting that changes the collapsible behavior to expandable instead of the default accordion style
                         });
@@ -276,16 +295,24 @@
         </div>
     </div>
 
-        
+
     <footer id="footer">
         <div class="container">
             <div class="row">
 
                 <ul id="nav-mobile" class="container center ">
-                    <li><a href="Site_Map.html" class="col s3"><div id="foot-link" >Site Map</div></a></li>
-                    <li><a href="Council.html" class="col s3" ><div id="foot-link" >Council</div></a></li>
-                    <li><a href="Web_Team.html" class="col s3" ><div id="foot-link" >Web Credits</div></a></li>
-                    <li><a href="contact.html" class="col s3" ><div id="foot-link" >Contact Us</div></a></li>
+                    <li><a href="Site_Map.html" class="col s3">
+                            <div id="foot-link">Site Map</div>
+                        </a></li>
+                    <li><a href="Council.html" class="col s3">
+                            <div id="foot-link">Council</div>
+                        </a></li>
+                    <li><a href="Web_Team.html" class="col s3">
+                            <div id="foot-link">Web Credits</div>
+                        </a></li>
+                    <li><a href="contact.html" class="col s3">
+                            <div id="foot-link">Contact Us</div>
+                        </a></li>
                 </ul>
 
 
@@ -305,35 +332,42 @@
 
 
 
-                <div style="margin-left:5px;">
+            <div style="margin-left:5px;">
 
-                    <div class="col l3 m2 s2" style="float:left;"><a href="http://iitkgp.ac.in/" target="_blank"><img id="img_kgp" src="images/Logo.png"></a></div>
-                    <div class="col l7 m7 s7" style="margin-left:95px;">
-                        <h6 id="iitkgp" style="font-family: Gill sans MT; color:#D5DBDB; padding-top:6px;">Department of Architecture and<br>Regional Planning</h6><div style="font-size:13px; font-family: Raleway Light; color:#D5DBDB; line-height:15px; padding-top:5px;">Indian Institute of Technology<br>Kharagpur</font>
+                <div class="col l3 m2 s2" style="float:left;"><a href="http://iitkgp.ac.in/" target="_blank"><img
+                            id="img_kgp" src="images/Logo.png"></a></div>
+                <div class="col l7 m7 s7" style="margin-left:95px;">
+                    <h6 id="iitkgp" style="font-family: Gill sans MT; color:#D5DBDB; padding-top:6px;">Department of
+                        Architecture and<br>Regional Planning</h6>
+                    <div
+                        style="font-size:13px; font-family: Raleway Light; color:#D5DBDB; line-height:15px; padding-top:5px;">
+                        Indian Institute of Technology<br>Kharagpur</font>
                     </div>
 
                 </div>
                 <div class="social col l3 s7 m7 right" style="margin-right:15px;">
-                    <a href="https://www.facebook.com/arpiitkgp" target="_blank"><img class="sociallogo" id="follow"  src="images/fb.png" /></a>
-                    <a href="https://issuu.com/ssapiitkgp" target="_blank"><img class="sociallogo" id="follow" src="images/issuu.png" /></a>
+                    <a href="https://www.facebook.com/arpiitkgp" target="_blank"><img class="sociallogo" id="follow"
+                            src="images/fb.png" /></a>
+                    <a href="https://issuu.com/ssapiitkgp" target="_blank"><img class="sociallogo" id="follow"
+                            src="images/issuu.png" /></a>
                     <a href="" target="_blank"><img class="sociallogo" id="follow" src="images/google.png" /></a>
                 </div>
-            <br>
-            <br>
-            <hr id="hr2" style=" border: 0.2px solid #7F8C8D;">
+                <br>
+                <br>
+                <hr id="hr2" style=" border: 0.2px solid #7F8C8D;">
 
-            <div class="footer-copyright">
-                <div class="container center" style="color:#D5DBDB; margin-top:5px; margin-bottom:10px;">
-                     (c) 2019 Students' Society of Architects and Planners
+                <div class="footer-copyright">
+                    <div class="container center" style="color:#D5DBDB; margin-top:5px; margin-bottom:10px;">
+                        (c) 2019 Students' Society of Architects and Planners
 
+                    </div>
                 </div>
             </div>
-        </div>
     </footer>
 
     <script type="text/javascript">
         $(".button-collapse").sideNav();
-        $("#acad1").click(function() {
+        $("#acad1").click(function () {
             $("#main").load("Alumni/1Script/Achievements.php");
             $("#acad1").css({
                 "border-bottom": "3px solid #566573",
@@ -354,7 +388,7 @@
             });
 
         });
-        $("#acad2").click(function() {
+        $("#acad2").click(function () {
             $("#main").load("Alumni/1Script/Placement.php");
             $("#acad2").css({
                 "border-bottom": "3px solid #566573",
@@ -375,7 +409,7 @@
             });
 
         });
-        $("#acad3").click(function() {
+        $("#acad3").click(function () {
             $("#main").load("Alumni/1Script/Internships.php");
             $("#acad3").css({
                 "border-bottom": "3px solid #566573",
@@ -397,7 +431,7 @@
 
         });
 
-        $("#acad4").click(function() {
+        $("#acad4").click(function () {
             $("#main").load("Alumni/1Script/Form.php");
             $("#acad4").css({
                 "border-bottom": "3px solid #566573",
