@@ -7,8 +7,13 @@
 
 }</style>
   <ul class="slides">
+  <li>
+      <img src="Gallery/workshop/16.jpg" class="iimm"/>
+    </li>
     <li>
-
+      <img src="Gallery/workshop/15.jpg" class="iimm"/>
+    </li>
+    <li>
       <img src="Gallery/workshop/10.jpg" class="iimm"/>
     </li>
     <li>
