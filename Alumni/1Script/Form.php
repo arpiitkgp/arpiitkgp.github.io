@@ -1,5 +1,5 @@
 <h5>Contact Us Directly</h5>
-<form action="https://formspree.io/f/mleokeae" method="POST">
+<form action="https://formspree.io/f/mbjwovaz" method="POST">
   <div class="form-group">
     <label for="exampleFormControlInput1" style="color: black;">Name</label>
     <input type="text" class="form-control" id="Name" placeholder="Name" name="NAME">

@@ -4,8 +4,8 @@
     height: 450px !important;
     width: 600px !important;
     margin: auto;
-
-}</style>
+}
+</style>
   <ul class="slides">
     <li>
       <img src="Gallery/field_study/12.jpg" class="iimm"/>
@@ -52,11 +52,6 @@
   });
 </script>
 
-
-
-
-
-
-            </div>
+</div>
 
 
