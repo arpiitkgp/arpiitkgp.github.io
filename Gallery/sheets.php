@@ -2,7 +2,7 @@
 
 .ssh{
   height: auto;
-    width: 280px !important;
+    width: 32% !important;
     margin: 4px 4px 8px 4px;
     box-shadow: 0 0px 2px;
     border-radius: 10px;
@@ -11,7 +11,7 @@
 }
 .ssh img{
     height: 218px !important;
-    width: 260px !important;
+    width: 95% !important;
 }
 .ssh img:hover{
     opacity: 0.9;
