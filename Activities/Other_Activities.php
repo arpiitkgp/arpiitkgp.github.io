@@ -7,6 +7,9 @@
 
 }</style>
   <ul class="slides">
+  <li>
+      <img src="images/other_act/12.png" class="iimm"/>
+    </li>
     <li>
       <img src="images/other_act/11.jpg" class="iimm"/>
     </li>
