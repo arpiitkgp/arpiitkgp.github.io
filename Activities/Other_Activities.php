@@ -2,12 +2,15 @@
 .iimm{height: 500px;}
 .slides img {
     height: 500px !important;
-    width: 400px !important;
+    width: 500px !important;
     margin:auto;
 
 }</style>
   <ul class="slides">
-  <li>
+    <li>
+      <img src="images/other_act/13.jpg" class="iimm"/>
+    </li>
+    <li>
       <img src="images/other_act/12.png" class="iimm"/>
     </li>
     <li>
